@@ -6,7 +6,7 @@ Pour démarrer ce projet, David, votre manager, a présenté la mission aux ing�
 
 # Livrables 
 
-Le script contenant les lignes de commande permettant d’envoyer un paragraphe au service cognitif d’Azure pour la détection du langage du paragraphe.
-Une présentation Powerpoint pour la soutenance.
-L’interview de votre mentor, que vous posterez sur le groupe Workplace du parcours.
+* Le script contenant les lignes de commande permettant d’envoyer un paragraphe au service cognitif d’Azure pour la détection du langage du paragraphe.
+* Une présentation Powerpoint pour la soutenance.
+* L’interview de votre mentor, que vous posterez sur le groupe Workplace du parcours.
 
